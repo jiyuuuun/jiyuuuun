@@ -25,10 +25,13 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
   </div>
+  <br>
+
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
+  <div align= "center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=jiyuuuun&bg_color=00000000&title_color=ffffff&text_color=ffffff"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyuuuun&layout=compact&bg_color=00000000&title_color=ffffff&text_color=ffffff"/>
+  </div> 
+  <br>
 </div>
 
-<div align="center">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats 🏅 </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=jiyuuuun&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyuuuun&layout=compact&cache_seconds=86400" />
-</div>
