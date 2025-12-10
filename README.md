@@ -29,6 +29,6 @@
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats 🏅 </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=jiyuuuun&custom_title=jiyuuuun's Github Stat&bg_color=00000000&title_color=ffffff&text_color=ffffff"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyuuuun&layout=compact&bg_color=00000000&title_color=ffffff&text_color=ffffff"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jiyuuuun&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyuuuun&layout=compact&cache_seconds=86400" />
 </div>
