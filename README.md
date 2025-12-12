@@ -29,10 +29,9 @@
 
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats 🏅 </h2> 
   <div align= "center"> 
-    [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jiyuuuun&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
-    [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jiyuuuun&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) 
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyuuuun&show_icons=true&theme=buefy)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyuuuun&layout=compact&theme=buefy)
     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jiyuuuun) 
-    ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150§ion=footer)
   </div> 
   <br>
 </div>
