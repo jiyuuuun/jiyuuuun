@@ -27,11 +27,12 @@
   </div>
   <br>
 
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats 🏅 </h2> 
   <div align= "center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=jiyuuuun&bg_color=00000000&title_color=ffffff&text_color=ffffff"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyuuuun&layout=compact&bg_color=00000000&title_color=ffffff&text_color=ffffff"/>
+    [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jiyuuuun&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+    [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jiyuuuun&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) 
+    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jiyuuuun) 
+    ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150§ion=footer)
   </div> 
   <br>
 </div>
-
