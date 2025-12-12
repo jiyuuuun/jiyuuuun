@@ -28,10 +28,11 @@
   <br>
 
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats 🏅 </h2> 
+  <br>
   <div align= "center"> 
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyuuuun&show_icons=true&theme=buefy)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyuuuun&layout=compact&theme=buefy)
-    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jiyuuuun) 
+    <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jiyuuuun&show_icons=true&theme=buefy"/> </a>
+    <br><br>
+    <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jiyuuuun&theme=buefy"/> </a>
   </div> 
   <br>
 </div>
