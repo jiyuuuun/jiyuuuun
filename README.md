@@ -39,7 +39,7 @@
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🔥 Baekjoon solved rank 🔥 </h2> 
   <br>
   <div align= "center"> 
-    <a href="https://solved.ac/intesys1004"> <img src="https://mazassumnida.wtf/api/generate_badge?boj=intesys1004"/> </a>
+    <a href="https://solved.ac/intesys1004"> <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=intesys1004"/> </a>
   </div> 
 </div>
 <br>
