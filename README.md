@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=31323f&height=120&text=JiYun's%20GITHUB&animation=&fontColor=f5c7c7&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=31323f&height=120&text=JiYun's%20GITHUB&fontColor=f5c7c7&fontSize=60" />
 </div>
 
 <div align="center"></div>
@@ -35,4 +35,11 @@
     <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jiyuuuun&theme=buefy"/> </a>
   </div> 
   <br>
+  
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🔥 Baekjoon solved rank 🔥 </h2> 
+  <br>
+  <div align= "center"> 
+    <a href="https://solved.ac/intesys1004"> <img src="https://mazassumnida.wtf/api/generate_badge?boj=intesys1004"/> </a>
+  </div> 
 </div>
+<br>
